@@ -14,7 +14,7 @@ The activity consists of three tasks, you must complete at least one.
 
 ### Data Visualization
 
-Use a visualization library to visualize your data in a number of ways, including line and bar charts, scatterplots, and histograms. You can leverage the library directly in your Python scripts, Jupyter notebooks, iPython shells, and other platforms. Starting from the provided data extract information such as: tables and fields used in queries, frequent operations etc.. Extract statistics on your data to better understand what you’re working with.
+Use a visualization library to visualize your data in a number of ways, including line and bar charts, scatterplots, and histograms. You can leverage the library directly in your Python scripts, Jupyter notebooks, iPython shells, and other platforms. Starting from the provided data extract information such as tables and fields used in queries, frequent operations etc. Extract statistics on your data to better understand what you’re working with.
 
 ### Model Training
 
@@ -29,11 +29,11 @@ Use the query text to train a model that can predict the query execution time. C
 
 Your task is to apply DevOps principles to ML. The model folder contains an example model you can use to:
 - Automate the creation of the infrastructure and the setup of the application. 
-- Recover from crashes. Implement a method autorestart the service on crash. 
+- Recover from crashes. Implement a method to auto-restart the service on a crash. 
 - Notify any CPU peak Implements a CI/CD pipeline for the code.
-- Scale when the number of request are greater than 10 req /sec.
+- Scale when the number of requests is greater than 10 req /sec.
 
-For this task you can also use your own model. The main purpose is to define model deployment of an ML-model as the process of integrating the model into a production environment. There is an example ```main.py``` and a ```Dockerfile```, feel free to change them.
+For this task you may also use your own model. The main purpose is to define model deployment of an ML-model as the process of integrating the model into a production environment. There is an example ```main.py``` and a ```Dockerfile```, feel free to change them.
 
 ## General requirements
 - You may use whatever programming language/platform you prefer. Use something that you know well.
