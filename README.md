@@ -6,7 +6,7 @@ This problem requires data preprocessing, data visualization, and model training
 
 You can find the repository structure below:
 
-.
+```.
 +-- data
 |   +-- general_log.json
 |   +-- slow_log.json
@@ -21,7 +21,7 @@ You can find the repository structure below:
 |   +-- Dockerfile
 |   +-- main.py
 |   +-- requirements.txt
-+-- README.md
++-- README.md```
 
 - ```data/general_log.json```: is the record of what the database is doing. The server writes information to this log when clients connect or disconnect, and it logs each SQL statement received from clients.
 - ```data/slow_log.json```: is a record of SQL queries that took a long time to perform.
