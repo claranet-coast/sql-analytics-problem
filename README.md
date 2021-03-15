@@ -42,7 +42,7 @@ The activity consists of three tasks, you must pick one of the following configu
 - Data Analytics + Model Training
 - Data Analytics + Model Deploy
 - Model Deploy
-- Data Analytics + Model Training + Model Training
+- Data Analytics + Model Training + Model Deploy
 
 ### Data Analytics
 
